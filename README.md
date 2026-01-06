@@ -1,10 +1,3 @@
-MemeChatBot is a lightweight Discord bot built with Python and discord.py. It listens to server messages and responds to simple commands, serving as a learning project for async programming, Discord intents, and API interaction. The code is clean, beginner-friendly, and easy to extend.
-
-Now a README
-
-Aquí tienes un README.md completo, claro y profesional, ideal para GitHub 👇
-Puedes copiarlo tal cual.
-
 🤖 MemeChatBot
 
 MemeChatBot is a lightweight Discord bot built with Python and discord.py.
