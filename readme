@@ -1,0 +1,103 @@
+MemeChatBot is a lightweight Discord bot built with Python and discord.py. It listens to server messages and responds to simple commands, serving as a learning project for async programming, Discord intents, and API interaction. The code is clean, beginner-friendly, and easy to extend.
+
+Now a README
+
+Aquí tienes un README.md completo, claro y profesional, ideal para GitHub 👇
+Puedes copiarlo tal cual.
+
+🤖 MemeChatBot
+
+MemeChatBot is a lightweight Discord bot built with Python and discord.py.
+It listens to messages in a server and responds to simple commands, serving as a beginner-friendly project to learn how Discord bots work, including events, intents, and asynchronous programming.
+
+This project was created as a hands-on learning exercise and can be easily extended with new commands, memes, moderation tools, or external API integrations.
+
+🚀 Features
+
+Connects to Discord using a bot token
+
+Listens to messages in real time
+
+Responds to simple commands (e.g. $hello)
+
+Clean and minimal structure for easy understanding
+
+🛠️ Technologies Used
+
+Python
+
+discord.py
+
+Git & GitHub
+
+📦 Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/MemeChatBot.git
+
+
+Navigate to the project folder:
+
+cd MemeChatBot
+
+
+Install dependencies:
+
+pip install discord.py
+
+🔑 Configuration
+
+Create a Discord application and bot at
+https://discord.com/developers/applications
+
+Copy your Bot Token
+
+Set the token as an environment variable:
+
+Windows (PowerShell):
+
+setx DISCORD_TOKEN "your_token_here"
+
+
+Update the code to use the environment variable if needed.
+
+⚠️ Never share or commit your bot token.
+
+▶️ Usage
+
+Run the bot with:
+
+python bot.py
+
+
+In your Discord server, type:
+
+$hello
+
+
+The bot will respond with:
+
+Hello World!
+
+📌 Notes
+
+The bot token is not included for security reasons
+
+This project is intended for educational purposes
+
+Works as a foundation for more advanced Discord bots
+
+📈 Future Improvements
+
+Add meme commands
+
+Use commands.Bot instead of discord.Client
+
+Add logging and error handling
+
+Modularize commands
+
+📄 License
+
+This project is open-source and free to use for learning and personal projects.
